@@ -1,0 +1,6 @@
+@learnwithjon_docker_HostAddress = http://localhost:5051
+
+GET {{learnwithjon_docker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

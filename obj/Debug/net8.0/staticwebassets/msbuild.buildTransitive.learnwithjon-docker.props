@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\learnwithjon-docker.props" />
+</Project>

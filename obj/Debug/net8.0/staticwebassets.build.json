@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r/H3q3zyJ1mYiG+fr/KgBk6aUTWvxiLlyUaswOZqYro=",
+  "Source": "learnwithjon-docker",
+  "BasePath": "_content/learnwithjon-docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

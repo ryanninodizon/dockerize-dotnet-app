@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\learnwithjon-docker.props" />
+</Project>
