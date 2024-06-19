@@ -13,6 +13,7 @@ RUN dotnet build 'image/learnwithjon-docker.csproj' -c Release -o /app/build
 FROM build AS publish 
 RUN dotnet publish 'image/learnwithjon-docker.csproj' -c Release -o /app/publish
 
+
 #Stage 3: Run
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 ENV ASPNETCORE_HTTP_PORTS=6969
